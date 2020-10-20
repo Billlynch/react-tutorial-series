@@ -1,0 +1,9 @@
+/*
+    Make the profile a set height and fill the whole width of the page,
+    with a border so we can see where it sits and what it holds.
+*/
+.profile {
+  border: 1px solid black;
+  width: 100%;
+  height: 15vh;
+}
